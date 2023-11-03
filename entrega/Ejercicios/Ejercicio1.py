@@ -12,3 +12,21 @@ print("23", 23)
 
 #E)
 print("Una computadora puede ser llamada 'inteligente' si logra engañar a una persona haciéndole creer que es un humano.")
+#F
+print("Lucas", "Gaiton")
+#g
+print("Lucas", "Gaiton", sep=" ")
+#h
+print("calle", "numero", "codigo postal", sep="\t")
+#i
+print("calle \n numero \n codigo postal ")
+
+#j
+lineaSalto = "\n"
+tabulacion = "\t"
+print("feliz"+lineaSalto+tabulacion+"Navidad"+lineaSalto+tabulacion+tabulacion+"2023")
+
+#F
+#F
+#F
+#F

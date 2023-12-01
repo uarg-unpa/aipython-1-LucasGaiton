@@ -1,0 +1,1 @@
+compañias_favoritas = ["Globant", "Naranja", "Google"]

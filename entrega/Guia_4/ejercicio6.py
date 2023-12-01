@@ -1,0 +1,1 @@
+datos_personales = ["TuNombre", 25, 1.75, "Soltero(a)", "TuDirección"]
